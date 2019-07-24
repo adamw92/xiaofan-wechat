@@ -8,13 +8,15 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.6.6",
+	"libVersion": "2.7.5",
 	"appid": "wx0034a2596f5eaee7",
 	"projectname": "%E5%B0%8F%E9%A5%ADBeta",
 	"svr": "/",
 	"client": "/",
 	"qcloudRoot": "/",
 	"miniprogramRoot": "src/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
